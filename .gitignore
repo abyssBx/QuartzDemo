@@ -1,0 +1,22 @@
+.metadata/
+Servers/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+
+# Mac
+.DS_Store
+
+# Maven
+#log/
+*.log
+target/
